@@ -1,16 +1,11 @@
-# Title
+# JS Stack From Scratch
 
 ## Learning Goals
 
--SWBAT 1
--SWBAT 2
+- Recognize the use for the different parts of the js developer toolkit
 
 ## Introduction
 
-## SWBAT 1
+Follow the [JS Stack From Scratch](https://github.com/verekia/js-stack-from-scratch) tutorial. It walks through about 25 js tools and libraries. As you work through the tutorial, make sure to get the code to run.
 
-## SWBAT 2
-
-## Conclusion
-
-## Resources
+Focus on the purpose of each of the different tools. Ask yourself "What class of problem is it designed to solve?". Inevitably, you won't end up using this exact set of tools on your projects. However, alternatives to these tools will still have to serve the same purpose. They might have a different API and different ergonomics, but they will have to get the same job done.
